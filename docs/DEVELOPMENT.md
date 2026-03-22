@@ -77,6 +77,8 @@ See [`testing-strategy.md`](./testing-strategy.md). Run **both** `backend/pytest
 
 **Single source for required features + current status:** [`FEATURES.md`](./FEATURES.md). **Full acceptance criteria (IDs):** [`mvp-feature-list.md`](./mvp-feature-list.md). **Layered product roadmap (MVP vs v1 vs plus):** [`mvp_features.md`](./mvp_features.md) — mapped to IDs in **mvp-feature-list §0.1**.
 
+**Secrets:** Never commit real API tokens. Eventbrite keys belong in **`backend/.env`** only (see [`SECURITY.md`](./SECURITY.md)). Frontend: copy [`frontend/env.example`](../frontend/env.example) to **`frontend/.env.local`** (gitignored).
+
 1. **In DB today:** `public.events`, `public.profiles` (`family_profile` JSONB, onboarding/consent), `public.saved_events`, RLS, auth → profile trigger — see [`../supabase/README.md`](../supabase/README.md).
 2. **App wiring:** Supabase Google OAuth in Next.js; UI for profile and saved events (**A1**, **A2**, **P1** schema exists; UI and Fit Score **P4** not built).
 3. **Discovery gaps:** map (**D8**), ZIP/autocomplete/geo (**D1**), interest toggle + aggregates, homepage sections (**D5**–**D6**, **D10**).

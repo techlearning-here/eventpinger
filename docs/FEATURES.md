@@ -18,6 +18,7 @@ This file is the **hub** for *what* we are building. Deep tables and UI specs li
 | **[`business-idea.md`](./business-idea.md)** | **Why**: positioning, monetization (listing vs organizer subscription), channels (email/WhatsApp), no native ticketing in v1. |
 | **[`business-idea-and-plan.md`](./business-idea-and-plan.md)** | **Idea + plan:** vision, problem/solution, phased roadmap (aligned with ideas doc + engineering slices), metrics, top risks, decision checklist. |
 | **[`team-idea-brief.md`](./team-idea-brief.md)** | **Team shareout:** plain-language idea, problem/solution, users, journeys, differentiation, phased direction, FAQ—**no** feature IDs. |
+| **[`SECURITY.md`](./SECURITY.md)** | **Secrets** placement, leak response (revoke, purge git history), prevention. |
 | **[`testing-strategy.md`](./testing-strategy.md)** | **TDD** layers and what to test per domain (verification, discovery contract, interest, subscriptions, admin). |
 | **[`tech-stack.md`](./tech-stack.md)** | Next.js, FastAPI, Supabase, Auth, integration boundaries. |
 | **[`DEVELOPMENT.md`](./DEVELOPMENT.md)** | Local run, env, tests, milestones. |

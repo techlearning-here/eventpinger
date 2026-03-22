@@ -8,6 +8,8 @@ backend/.env.*
 frontend/.env
 frontend/.env.*
 !frontend/.env.example
+# Non-dot env filename — do not commit (real secrets were leaked under this path once).
+frontend/env
 
 # --- Python / backend ---
 backend/.venv/
