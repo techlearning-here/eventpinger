@@ -1,0 +1,22 @@
+kind,id,name,name_localized,short_name,short_name_localized,parent_category_id,parent_category_name,resource_uri
+category,103,Music,Music,Music,Music,,,https://www.eventbriteapi.com/v3/categories/103/
+category,101,Business & Professional,Business & Professional,Business,Business,,,https://www.eventbriteapi.com/v3/categories/101/
+category,110,Food & Drink,Food & Drink,Food & Drink,Food & Drink,,,https://www.eventbriteapi.com/v3/categories/110/
+category,113,Community & Culture,Community & Culture,Community,Community,,,https://www.eventbriteapi.com/v3/categories/113/
+category,105,Performing & Visual Arts,Performing & Visual Arts,Arts,Arts,,,https://www.eventbriteapi.com/v3/categories/105/
+category,104,"Film, Media & Entertainment","Film, Media & Entertainment",Film & Media,Film & Media,,,https://www.eventbriteapi.com/v3/categories/104/
+category,108,Sports & Fitness,Sports & Fitness,Sports & Fitness,Sports & Fitness,,,https://www.eventbriteapi.com/v3/categories/108/
+category,107,Health & Wellness,Health & Wellness,Health,Health,,,https://www.eventbriteapi.com/v3/categories/107/
+category,102,Science & Technology,Science & Technology,Science & Tech,Science & Tech,,,https://www.eventbriteapi.com/v3/categories/102/
+category,109,Travel & Outdoor,Travel & Outdoor,Travel & Outdoor,Travel & Outdoor,,,https://www.eventbriteapi.com/v3/categories/109/
+category,111,Charity & Causes,Charity & Causes,Charity & Causes,Charity & Causes,,,https://www.eventbriteapi.com/v3/categories/111/
+category,114,Religion & Spirituality,Religion & Spirituality,Spirituality,Spirituality,,,https://www.eventbriteapi.com/v3/categories/114/
+category,115,Family & Education,Family & Education,Family & Education,Family & Education,,,https://www.eventbriteapi.com/v3/categories/115/
+category,116,Seasonal & Holiday,Seasonal & Holiday,Holiday,Holiday,,,https://www.eventbriteapi.com/v3/categories/116/
+category,112,Government & Politics,Government & Politics,Government,Government,,,https://www.eventbriteapi.com/v3/categories/112/
+category,106,Fashion & Beauty,Fashion & Beauty,Fashion,Fashion,,,https://www.eventbriteapi.com/v3/categories/106/
+category,117,Home & Lifestyle,Home & Lifestyle,Home & Lifestyle,Home & Lifestyle,,,https://www.eventbriteapi.com/v3/categories/117/
+category,118,"Auto, Boat & Air","Auto, Boat & Air","Auto, Boat & Air","Auto, Boat & Air",,,https://www.eventbriteapi.com/v3/categories/118/
+category,119,Hobbies & Special Interest,Hobbies & Special Interest,Hobbies,Hobbies,,,https://www.eventbriteapi.com/v3/categories/119/
+category,199,Other,Other,Other,Other,,,https://www.eventbriteapi.com/v3/categories/199/
+category,120,School Activities,School Activities,School Activities,School Activities,,,https://www.eventbriteapi.com/v3/categories/120/

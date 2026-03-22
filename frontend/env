@@ -1,0 +1,11 @@
+# Same variables as frontend/.env.example — duplicate for teams that prefer this filename.
+# Copy to .env.local (Next.js loads it automatically in dev).
+
+NEXT_PUBLIC_API_URL=http://localhost:8000
+
+# Google sign-in via Supabase Auth (see docs/tech-stack.md)
+NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT_REF.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
+
+# O7 Eventbrite import (server-only): docs/eventbrite_api_testing.md
+EVENTBRITE_PRIVATE_TOKEN=THFH5LLQ6VED2BTMD44O
